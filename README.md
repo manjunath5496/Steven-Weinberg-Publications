@@ -66,6 +66,13 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(36).pdf" style="text-decoration:none;">Conference Summary 20th Texas Symposium on Relativistic Astrophysics</a></b></li> 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(37).pdf" style="text-decoration:none;">Cosmological Fluctuations Of Small Wavelength</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(38).pdf" style="text-decoration:none;">Adiabatic Modes in Cosmology</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(39).pdf" style="text-decoration:none;">Damping of Tensor Modes in Cosmology</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(40).pdf" style="text-decoration:none;">Can Non-Adiabatic Perturbations Arise After Single-Field Inflation?</a></b></li> 
 
 
 
