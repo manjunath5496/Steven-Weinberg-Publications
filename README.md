@@ -92,9 +92,25 @@
 
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(49).pdf" style="text-decoration:none;">Three-Body Interactions Among Nucleons and Pions</a></b></li> 
 
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(50).pdf" style="text-decoration:none;">Flavor Changing Scalar Interactions</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(51).pdf" style="text-decoration:none;">Effective Action and Renormalization Group Flow of Anisotropic Superconductors</a></b></li>                                
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(52).pdf" style="text-decoration:none;">General Effective Actions</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(53).pdf" style="text-decoration:none;">Strong Interactions at Low Energies </a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(54).pdf" style="text-decoration:none;">Are Nonrenormalizable Gauge Theories Renormalizable?</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(55).pdf" style="text-decoration:none;">Theories of the Cosmological Constant</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(56).pdf" style="text-decoration:none;">Likely Values of the Cosmological Constant</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(57).pdf" style="text-decoration:none;">What is Quantum Field Theory, and What Did We Think It Is?</a></b></li>
 
 
 
