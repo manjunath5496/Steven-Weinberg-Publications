@@ -76,5 +76,30 @@
 
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(41).pdf" style="text-decoration:none;">Must Cosmological Perturbations Remain Non-Adiabatic After Multi-Field Inflation?</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(42).pdf" style="text-decoration:none;">Quantum Contributions to Cosmological Correlations</a></b></li>                                
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(43).pdf" style="text-decoration:none;">Living in the Multiverse</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(44).pdf" style="text-decoration:none;">Quantum Contributions to Cosmological Correlations II: Can These Corrections Become Large? </a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(45).pdf" style="text-decoration:none;">A No-Truncation Approach to Cosmic Microwave Background Anisotropies</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(46).pdf" style="text-decoration:none;">Tensor Microwave Background Fluctuations for Large Multipole Order</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(47).pdf" style="text-decoration:none;">Non-Renormalization Theorems in Non-Renormalizable Theories</a></b></li>
+
+
+
+
+
+
+
+
+
+
+
+
 
 </ul>  
