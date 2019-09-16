@@ -50,7 +50,21 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(28).pdf" style="text-decoration:none;">Absorption of Gravitational Waves from Distant Sources</a></b></li> 
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(29).pdf" style="text-decoration:none;">Effective Field Theory for Inflation</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(30).pdf" style="text-decoration:none;">A Tree Theorem for Inflation </a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(31).pdf" style="text-decoration:none;">Non-Gaussian Correlations Outside the Horizon</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(32).pdf" style="text-decoration:none;">A Priori Probability Distribution of the Cosmological Constant</a></b></li>                                
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(33).pdf" style="text-decoration:none;">Curvature Dependence of Peaks in the Cosmic Microwave Background Distribution</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(34).pdf" style="text-decoration:none;">Fluctuations in the Cosmic Microwave Background I: Form Factors and their Calculation in Synchronous Gauge </a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(35).pdf" style="text-decoration:none;">Fluctuations in the Cosmic Microwave Background II: C<sub>ℓ</sub> at Large and Small ℓ</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(36).pdf" style="text-decoration:none;">Conference Summary 20th Texas Symposium on Relativistic Astrophysics</a></b></li> 
 
 
 
