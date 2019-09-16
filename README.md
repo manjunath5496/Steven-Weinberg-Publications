@@ -90,7 +90,7 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(47).pdf" style="text-decoration:none;">Non-Renormalization Theorems in Non-Renormalizable Theories</a></b></li>
 
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(48).pdf" style="text-decoration:none;">Effective Field Theories in the Large N Limit</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(49).pdf" style="text-decoration:none;">Three-Body Interactions Among Nucleons and Pions</a></b></li> 
 
