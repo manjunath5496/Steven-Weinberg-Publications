@@ -18,7 +18,24 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(11).pdf" style="text-decoration:none;">Why The Renormalization Group Is A Good Thing </a></b></li>                                
                                 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(12).pdf" style="text-decoration:none;">Non-Gaussian Correlations Outside the Horizon II: The General Case</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(13).pdf" style="text-decoration:none;">Living With Infinities</a></b></li>  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(14).pdf" style="text-decoration:none;">Asymptotically Safe Inflation</a></b></li>
+                               
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(15).pdf" style="text-decoration:none;">Six-dimensional Methods for Four-dimensional Conformal Field Theories</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(16).pdf" style="text-decoration:none;">Pions in Large-N Quantum Chromodynamics</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(17).pdf" style="text-decoration:none;">Ultraviolet Divergences in Cosmological Correlations </a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(18).pdf" style="text-decoration:none;">Collapse of the State Vector </a></b></li>                                
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(19).pdf" style="text-decoration:none;">Six-dimensional Methods for Four-dimensional Conformal Field Theories II: Irreducible Fields</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(20).pdf" style="text-decoration:none;">Minimal Fields of Canonical Dimensionality are Free</a></b></li>                                
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(21).pdf" style="text-decoration:none;">Tetraquark Mesons in Large-N Quantum Chromodynamics</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(22).pdf" style="text-decoration:none;">Goldstone Bosons as Fractional Cosmic Neutrinos </a></b></li> 
 
 
 </ul>  
