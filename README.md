@@ -37,5 +37,23 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(22).pdf" style="text-decoration:none;">Goldstone Bosons as Fractional Cosmic Neutrinos </a></b></li> 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(23).pdf" style="text-decoration:none;">Quantum Mechanics Without State Vectors</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(24).pdf" style="text-decoration:none;">What Happens in a Measurement?</a></b></li>                                
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(25).pdf" style="text-decoration:none;">Lindblad Decoherence in Atomic Clocks</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(26).pdf" style="text-decoration:none;">Gravitational Waves in Cold Dark Matter </a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(27).pdf" style="text-decoration:none;">Soft Bremsstrahlung</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Steven-Weinberg-Publications/blob/master/swb(28).pdf" style="text-decoration:none;">Absorption of Gravitational Waves from Distant Sources</a></b></li> 
+
+
+
+
+
+
+
 
 </ul>  
